@@ -5,7 +5,16 @@
 
 - O foco principal foi aprender a posicionar e alinhar os itens dentro do grid, não sendo uma página responsiva ou finalizada.
 
+---
+
+## 🔄 ATT
+
+- Adicionado **HTML semântico** para melhorar a estrutura do código.
+- Implementadas **pseudoclasses CSS** como `:hover`, trazendo efeitos de interação nos elementos.
+
+---
+
 ## 👤 Autor
 
-Lucas Figueiredo
+Lucas Figueiredo  
 [GitHub](https://github.com/lucas-figueiredo01)
