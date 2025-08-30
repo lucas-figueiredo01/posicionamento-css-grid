@@ -11,6 +11,7 @@
 
 - Adicionado **HTML semântico** para melhorar a estrutura do código.
 - Implementadas **pseudoclasses CSS** como `:hover`, trazendo efeitos de interação nos elementos.
+- Incluída **responsividade com @media query**, permitindo melhor adaptação em diferentes tamanhos de tela.
 
 ---
 
